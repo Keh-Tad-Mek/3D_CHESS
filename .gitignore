@@ -1,0 +1,20 @@
+# Virtual environments
+.venv/
+venv/
+ChessVenv/
+env/
+
+# Python bytecode / caches
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Build / packaging
+build/
+dist/
+*.egg-info/
+
+# Editor / OS noise
+.vscode/
+.idea/
+.DS_Store
